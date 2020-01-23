@@ -1,0 +1,4 @@
+add flag in same directory
+install redis server properly in container
+add shinobis from admin 
+remove .git* file
