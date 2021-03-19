@@ -1,6 +1,6 @@
 Django==2.2.9
 django-redis==4.11.0
-Pillow==7.0.0
+Pillow==8.1.1
 pytz==2019.3
 redis==3.3.11
 sqlparse==0.3.0
